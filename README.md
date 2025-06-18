@@ -1,7 +1,7 @@
 # 🛍️ Digital Store React
 
-Projeto final de front-end do curso de Desenvolvimento Web - Geração Tech 2.0<br><br>
-O projeto tem como base a [documentação do projeto Digital Store](https://github.com/digitalcollegebr/projeto-digital-store) e o design visual disponível no [Figma](https://www.figma.com/design/cfb4F7ZXMFQmvmTn3PKI4z/DRIP-STORE---DIGITAL-COLLEGE?node-id=22-30).
+Projeto final de front-end do curso de desenvolvimento web - Geração Tech 2.0<br><br>
+O projeto tem como base a [documentação do projeto Digital Store](https://github.com/digitalcollegebr/projeto-digital-store) e o design visual disponível no [Figma](https://www.figma.com/design/cfb4F7ZXMFQmvmTn3PKI4z/DRIP-STORE---DIGITAL-COLLEGE?node-id=22-30)
 
 ## 🚀 Tecnologias Utilizadas
 
