@@ -1,12 +1,28 @@
-# React + Vite
+# 🛍️ Digital Store React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Projeto final de front-end do curso de Desenvolvimento Web - Geração Tech 2.0<br><br>
+O projeto tem como base a [documentação do projeto Digital Store](https://github.com/digitalcollegebr/projeto-digital-store) e o design visual disponível no [Figma](https://www.figma.com/design/cfb4F7ZXMFQmvmTn3PKI4z/DRIP-STORE---DIGITAL-COLLEGE?node-id=22-30).
 
-Currently, two official plugins are available:
+## 🚀 Tecnologias Utilizadas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **React 19** – Biblioteca principal para construção da UI  
+- **Vite** – Ferramenta moderna para build e desenvolvimento  
+- **React Router DOM** – Para gerenciamento de rotas  
+- **Styled-Components** – Estilização com CSS-in-JS  
+- **PrimeReact / PrimeIcons / PrimeFlex** – Componentes visuais e utilitários para UI responsiva  
 
-## Expanding the ESLint configuration
+## ⚙️ Como Rodar o Projeto
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 1. Clone o repositório
+```bash
+git clone https://github.com/ingridmaria-fdc/projeto-digital-store-react.git
+cd projeto-digital-store-react
+```
+### 2. Instale as dependências
+```bash
+npm install
+```
+### 3. Rode o servidor de desenvolvimento
+```bash
+npm run dev
+```
