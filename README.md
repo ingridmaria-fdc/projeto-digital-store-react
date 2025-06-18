@@ -1,9 +1,9 @@
-# 🛍️ Digital Store React
+# Digital Store React
 
 Projeto final de front-end do curso de desenvolvimento web - Geração Tech 2.0<br><br>
 O projeto tem como base a [documentação do projeto Digital Store](https://github.com/digitalcollegebr/projeto-digital-store) e o design visual disponível no [Figma](https://www.figma.com/design/cfb4F7ZXMFQmvmTn3PKI4z/DRIP-STORE---DIGITAL-COLLEGE?node-id=22-30)
 
-## 🚀 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **React 19** – Biblioteca principal para construção da UI  
 - **Vite** – Ferramenta moderna para build e desenvolvimento  
@@ -11,7 +11,7 @@ O projeto tem como base a [documentação do projeto Digital Store](https://gith
 - **Styled-Components** – Estilização com CSS-in-JS  
 - **PrimeReact / PrimeIcons / PrimeFlex** – Componentes visuais e utilitários para UI responsiva  
 
-## ⚙️ Como Rodar o Projeto
+## Como Rodar o Projeto
 
 ### 1. Clone o repositório
 ```bash
