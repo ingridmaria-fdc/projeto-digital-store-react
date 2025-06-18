@@ -1,0 +1,38 @@
+.button {
+  background-color: #c92071;
+  border: none;
+  width: 170px;
+  height: 40px;
+  border-radius: 6px;
+  font-size: 13px;
+  color: #fff;
+  font-weight: 600;
+  line-height: 22px;
+  letter-spacing: 0.75px;
+}
+
+.title {
+  font-size: 50px;
+  font-weight: bold;
+  line-height: 60px;
+  color: #1f1f1f;
+  letter-spacing: 1px;
+}
+
+.subtitle {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 34px;
+  color: #474747;
+  letter-spacing: 0.75px;
+}
+
+.p-galleria {
+  width: 100% !important;
+  max-width: 100% !important;
+  overflow: hidden;
+}
+
+.p-galleria-item-wrapper {
+  overflow: hidden;
+}

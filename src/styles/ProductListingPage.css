@@ -1,0 +1,37 @@
+.order-by {
+  width: 300px;
+  height: 40px;
+  border-radius: 4px;
+  border: 1px solid;
+  border-color: #474747;
+}
+
+.order-title {
+  color: #1f1f1f;
+  font-weight: 600;
+  size: 16px;
+  line-height: 28px;
+  letter-spacing: 0.75px;
+}
+
+.order-subtitle {
+  color: #1f1f1f;
+  size: 16px;
+  font-weight: 400;
+  line-height: 28px;
+  letter-spacing: 0.75px;
+}
+
+.filter {
+  width: 308px;
+  height: 770px;
+  border-radius: 4px;
+  padding: 30px;
+  gap: 20px;
+  background-color: #ffffff;
+  font-weight: 600;
+  size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.75px;
+  color: #474747;
+}
